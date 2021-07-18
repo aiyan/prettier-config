@@ -1,7 +1,7 @@
 {
   "name": "@aiyan/prettier-config",
-  "version": "1.0.1",
-  "description": "Prettier configuration with reasonable settings",
+  "version": "1.0.2",
+  "description": "A Prettier configuration with reasonable defaults for TypeScript and React apps",
   "main": "index.json",
   "repository": "git@github.com:aiyan/prettier-config.git",
   "author": "Aiyan Jiang <48393820+aiyan@users.noreply.github.com>",
